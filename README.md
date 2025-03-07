@@ -2,11 +2,11 @@
  
 ## 📌 Sobre mí
 
- Soy Economista apasionado por los datos y la inteligencia artificial, con experiencia en análisis de datos, business intelligence y storytelling. Me encanta convertir datos en información valiosa para la toma de decisiones en varias escenarios.
+Soy Economista apasionado por los datos y la inteligencia artificial, con experiencia en análisis de datos, business intelligence y data science. Me encanta convertir datos en información valiosa para la toma de decisiones en varias escenarios.
  
 🔹 Experto en herramientas como **Excel, Power BI, SQL y Python**  
 
- 🔹 Interesado en **Machine Learning y Data Storytelling**  
+ 🔹 Interesado en **Machine Learning e Inteligencia Artifical Generativa**  
 
  🔹 Disfruto creando **historias, dashboards interactivos y reportes automatizados**  
  
@@ -36,12 +36,12 @@
  
 ## 🎓 Educación & Certificaciones
 
- 📖 **Economista con especialización en Business Intelligence**  
+ 📖 **Economista con maestría en Business Intelligence & Data Science**  
 
- 📜 **Certificación en IT Specialist - Data Analytics**  
+ 📜 **Certificación en Generative AI y Prompt Engineering**  
 
- 🏆 **Cursos en Machine Learning y Growth Marketing**  
+ 🏆 **Cursos en Excel, Phyton, R y Power BI**  
  
 ## 🌍 ¡Conectemos!
 
- 📩 [LinkedIn](https://www.linkedin.com/in/andervcy/) | 📧 [Email](anderbladimir@gmail.com) | 🌐 [Proyecto](https://cienciadedatosec.com/)
+ 📩 [LinkedIn](https://www.linkedin.com/in/david-pineda-9163511b2/) | 📧 [Email](steeven.pineda7@gmail.com) | 🌐 [Proyecto](https://cienciadedatosec.com/)
