@@ -1,16 +1,47 @@
-## Hi there 👋
+# ¡Hola, soy Steeven Pineda! 👋
+ 
+## 📌 Sobre mí
 
-<!--
-**steevenpineda/steevenpineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Soy Economista apasionado por los datos y la inteligencia artificial, con experiencia en análisis de datos, business intelligence y storytelling. Me encanta convertir datos en información valiosa para la toma de decisiones en varias escenarios.
+ 
+🔹 Experto en herramientas como **Excel, Power BI, SQL y Python**  
 
-Here are some ideas to get you started:
+ 🔹 Interesado en **Machine Learning y Data Storytelling**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔹 Disfruto creando **historias, dashboards interactivos y reportes automatizados**  
+ 
+## 🚀 Proyectos & Trabajo
+
+ 📊 **[Proyecto en Power BI](#)** - Transformación de datos en dashboards interactivos  
+
+ 🗄️ **[Análisis SQL](#)** - Extracción y limpieza de datos con SQL  
+
+ 📈 **[Python para Análisis de Datos](#)** - Exploración y visualización de datos con Pandas y Matplotlib  
+ 
+## 🛠️ Habilidades
+
+ ### 📌 Técnicas
+
+ - **Lenguajes:** Python, SQL, DAX  
+
+ - **BI & Data:** Power BI, Excel, Pandas, Matplotlib, Tableau
+ 
+### 📌 Blandas
+
+ - Comunicación & Storytelling  
+
+ - Resolución de problemas  
+
+ - Trabajo en equipo  
+ 
+## 🎓 Educación & Certificaciones
+
+ 📖 **Economista con especialización en Business Intelligence**  
+
+ 📜 **Certificación en IT Specialist - Data Analytics**  
+
+ 🏆 **Cursos en Machine Learning y Growth Marketing**  
+ 
+## 🌍 ¡Conectemos!
+
+ 📩 [LinkedIn](https://www.linkedin.com/in/andervcy/) | 📧 [Email](anderbladimir@gmail.com) | 🌐 [Proyecto](https://cienciadedatosec.com/)
