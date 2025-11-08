@@ -1,4 +1,4 @@
-# ¡Hola, soy Steeven Pineda! 👋
+# ¡Hola, soy David Pineda! 👋
  
 ## 📌 Sobre mí
 
@@ -44,4 +44,4 @@ Soy Economista apasionado por los datos y la inteligencia artificial, con experi
  
 ## 🌍 ¡Conectemos!
 
- 📩 [LinkedIn](https://www.linkedin.com/in/david-pineda-9163511b2/) | 📧 [Email](steeven.pineda7@gmail.com) | 🌐 [Proyecto](https://cienciadedatosec.com/)
+ 📩 [LinkedIn](https://www.linkedin.com/in/david-pineda-9163511b2/) | 📧 [Email](steeven.pineda7@gmail.com) | 🌐 [Proyecto]()
